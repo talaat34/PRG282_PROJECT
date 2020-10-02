@@ -1,0 +1,19 @@
+The aim is to destroy the enemies camp without out loosing your health or fuel
+
+
+Movement:
+
+User should use the the directional keys to move the aircraft.
+Up - Moves the Aircraft Upwards
+Down - Moves the Aircraft Downwards
+Left - Moves the Aircraft to the Left
+Right - Moves the Aircraft to the Right
+
+Fire:
+
+Space Bar - Shoots bullets from the Aircraft
+
+Restart Game:
+
+Once the Aircrafts Health reaches zero, The simulation needs to restarted manually by the user
+Enter - Resets the simulation

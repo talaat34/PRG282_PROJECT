@@ -1,0 +1,13 @@
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\bin\Debug\PRG282_PROJECT_Military Simulations.exe.config
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\bin\Debug\PRG282_PROJECT_Military Simulations.exe
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\bin\Debug\PRG282_PROJECT_Military Simulations.pdb
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\obj\Debug\PRG282_PROJECT_Military Simulations.csprojAssemblyReference.cache
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\obj\Debug\PRG282_PROJECT_Military_Simulations.Form1.resources
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\obj\Debug\PRG282_PROJECT_Military_Simulations.Properties.Resources.resources
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\obj\Debug\PRG282_PROJECT_Military Simulations.csproj.GenerateResource.cache
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\obj\Debug\PRG282_PROJECT_Military Simulations.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\obj\Debug\PRG282_PROJECT_Military Simulations.exe
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\obj\Debug\PRG282_PROJECT_Military Simulations.pdb
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\obj\Debug\PRG282_PROJECT_Military_Simulations.Congrats.resources
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\obj\Debug\PRG282_PROJECT_Military_Simulations.Welcome.resources
+C:\Users\user-pc\source\repos\PRG282_PROJECT_Military Simulations\PRG282_PROJECT_Military Simulations\obj\Debug\PRG282_PROJECT_Military_Simulations.Instructions.resources
